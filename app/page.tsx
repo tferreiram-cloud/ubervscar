@@ -100,7 +100,7 @@ export default function Antigravity() {
     <div style={{ minHeight: "100vh", background: "#000", color: "#fff", padding: "24px 20px 48px", fontFamily: "system-ui, sans-serif", maxWidth: 480, margin: "0 auto" }}>
 
       <div style={{ textAlign: "center", marginBottom: 20 }}>
-        <div style={{ fontSize: 10, color: "#444", letterSpacing: 4, fontWeight: 600 }}>ANTIGRAVITY</div>
+        <div style={{ fontSize: 9, color: "#444", letterSpacing: 2, fontWeight: 600 }}>CALCULADORA UBER VS CARRO</div>
       </div>
 
       {/* NÚMERO */}
